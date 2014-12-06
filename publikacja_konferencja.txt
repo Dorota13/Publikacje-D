@@ -1,15 +1,16 @@
 Publikacja nr 1
 
 Tytul: Publikacja o fizyce
-Autor: Stanislaw Kowalski, Dorota Siekaniec
+Autor: Stanislaw Kowalski, Dorota Siekaniec, Janek Kowalski
 
 Abstrakt
 Do napisania pozniej
 
 Dane
-Jeszcze ich nie ma. generuja sie.
+Nasze wpsolne dane
+
 Analiza
 Wnioski
+(to napisze Janek)
 
 Bibliografia
-....
